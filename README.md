@@ -1,9 +1,6 @@
 # Mohammad-Masqala
 # Hi, I'm Mohammad 👋
 
-I’m a **Mechatronics Engineer** passionate about **Data Science** and **Networking**.  
-I have hands-on experience with **Machine Learning**, **Data Analysis**, and **Network Installation**.  
-Currently exploring ways to combine **AI** with **IoT & Networking**.
 
 - 🎓 Mechatronics Engineering graduate, transitioning into Data Science
 - 💻 Skilled in Python, Machine Learning, Data Analysis, and Visualization
