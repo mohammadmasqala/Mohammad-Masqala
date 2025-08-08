@@ -20,8 +20,8 @@ Currently focused on **predictive analytics** and **data visualization**.
 
 
 ## 📫 Connect with Me
-## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-masqala)
+
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 
