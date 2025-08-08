@@ -1,7 +1,5 @@
-# Mohammad-Masqala
-
 # 👋 Hi, I'm Mohammad Masqala
-# 🤖 Data Scientist in the Making
+
 Building intelligent solutions with Python, Machine Learning, and Data Visualization
 
 I’m passionate about turning data into actionable insights.  
